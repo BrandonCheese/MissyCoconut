@@ -1,7 +1,7 @@
 # Part 3 — Store Reflection
 
-状态：等待程序开发与真实同学反馈。
+Status: awaiting program development and real peer feedback.
 
-完成后记录实际反馈、对应修改、使用反馈是否合适的讨论，以及敏感客户数据的管理与保护。不得编造反馈。
+Record the actual feedback received, the resulting changes, a discussion of whether using that feedback was appropriate, and how sensitive customer data should be managed and protected. Do not invent feedback.
 
-[返回作业总文档](../README.md)
+[Back to assignment overview](../README.md)

@@ -2,7 +2,7 @@
 
 SACE Stage 1 Digital Technologies · Task 3
 
-[返回学科目录](../README.md) · [返回仓库首页](../../README.md)
+[Back to subject directory](../README.md) · [Back to portfolio](../../README.md)
 
 ## Contents
 

@@ -1,8 +1,8 @@
 # Part 2 — Store Coding
 
-状态：尚未开始实现。
+Status: implementation has not started.
 
-后续将加入 `store.py`、必要的测试记录，以及至少三张真实开发阶段截图。
+This folder will contain `store.py`, relevant test records and at least three genuine screenshots of different code development stages.
 
-- [开发截图](screenshots/)
-- [返回作业总文档](../README.md)
+- [Development screenshots](screenshots/)
+- [Back to assignment overview](../README.md)

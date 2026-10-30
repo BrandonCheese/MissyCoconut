@@ -1,5 +1,5 @@
-# 开发阶段截图
+# Development Screenshots
 
-目前尚无截图。开发时至少保存三个不同阶段的真实代码或运行截图。
+No screenshots have been added yet. During development, save genuine screenshots of the code or program output from at least three different stages.
 
-建议命名：`01-menu.png`、`02-cart.png`、`03-checkout.png`。
+Suggested filenames: `01-menu.png`, `02-cart.png` and `03-checkout.png`.
